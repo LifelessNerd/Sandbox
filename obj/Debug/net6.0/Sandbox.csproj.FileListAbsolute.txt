@@ -1,0 +1,15 @@
+D:\Programming\GitHub\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.exe
+D:\Programming\GitHub\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.deps.json
+D:\Programming\GitHub\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.runtimeconfig.json
+D:\Programming\GitHub\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.dll
+D:\Programming\GitHub\Sandbox\Sandbox\bin\Debug\net6.0\ref\Sandbox.dll
+D:\Programming\GitHub\Sandbox\Sandbox\bin\Debug\net6.0\Sandbox.pdb
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.csproj.AssemblyReference.cache
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfoInputs.cache
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.AssemblyInfo.cs
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.dll
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\ref\Sandbox.dll
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.pdb
+D:\Programming\GitHub\Sandbox\Sandbox\obj\Debug\net6.0\Sandbox.genruntimeconfig.cache
